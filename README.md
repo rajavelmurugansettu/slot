@@ -124,7 +124,7 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-![alt text](<aizen/slotapp/static/Screenshot (18).png>)
+![alt text](<aizen/slotapp/static/Screenshot (20).png>)
 
 
 ## RESULT
